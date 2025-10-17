@@ -1,0 +1,3 @@
+# Heading What is Fifa?
+## Overview
+FIFA is a football simulation video game franchise developed by EA Vancouver and EA Romania and published by EA Sports. As of 2011, the FIFA franchise has been localised into 18 languages and available in 51 countries. Listed in Guinness World Records as the best-selling sports video game franchise in the world, the FIFA series has sold over 325 million copies as of 2021. On 10 May 2022, it was announced that EA and FIFA's partnership of 30 years would come to an end upon the termination of their licensing agreement, making FIFA 23 the last entry to the franchise under the FIFA name. As a successor to the FIFA series, EA launched the EA Sports FC franchise, with EA Sports FC 24 being the first installment under the new name.
